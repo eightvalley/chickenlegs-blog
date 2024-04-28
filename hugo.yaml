@@ -14,7 +14,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: chickenlegs
+  title: 🍗CHICKENLEGS🍗
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -50,7 +50,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "CHICKENLEGS 🍗"
+    text: "🍗CHICKENLEGS🍗"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
