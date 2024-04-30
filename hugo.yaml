@@ -15,9 +15,9 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: CHICKENLEGS
-  description: "ExampleSite description"
+  description: "Random shit"
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
+  author: Phil
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
