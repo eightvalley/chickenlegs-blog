@@ -1,5 +1,5 @@
 baseURL: "https://chickenlegs.cc/"
-title: 🍗CHICKENLEGS
+title: CHICKENLEGS
 paginate: 5
 theme: PaperMod
 
@@ -43,10 +43,10 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "/favicon"
-    favicon16x16: "/favicon-16x16"
-    favicon32x32: "/favicon-32x32"
-    apple_touch_icon: "/apple-touch-icon"
+    favicon: "/favicon.png"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
     safari_pinned_tab: "<link / abs url>"
 
   label:
