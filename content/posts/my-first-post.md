@@ -6,7 +6,7 @@ date: 2020-09-15T11:30:03+00:00
 tags: ["first"]
 author: "Me" # author: ["Me", "You"] # multiple authors
 cover:
-    image: "https://unsplash.com/it/foto/una-vista-ravvicinata-di-una-foglia-verde-Ha_1LvyEo-E" # image path/url
+    image: "https://unsplash.com/it/foto/una-vista-ravvicinata-di-una-foglia-verde-Ha_1LvyEo-E"
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false
